@@ -4,4 +4,6 @@
 
 ## DEMO VIDEO
 
+https://github.com/Denver-sn/xarala-test-react/assets/50638006/1f2fcf5b-c064-44d8-8a99-9ed7169b708f
+
 
